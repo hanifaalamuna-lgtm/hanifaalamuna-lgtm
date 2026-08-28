@@ -1,62 +1,69 @@
 <div align="center">
 
-# 👋 Hello, I'm Hanifa!
+# Hanifa Alamuna
 
-###  Web Development Student | Future Software Engineer
+### Web Development Student | Future Software Engineer
+
+I'm currently learning web development and building projects to strengthen my skills.
 
 </div>
 
+---
 
-I'm currently learning web development and building my skills in **HTML, CSS, and JavaScript**.
+## About Me
 
- 
-Currently learning and improving my coding skills
-Building projects and learning through practice
-Interested in software engineering and technology
-Always learning something new
+* Currently learning HTML, CSS, JavaScript, Git and GitHub
+* Interested in software engineering and technology
+* Building projects to improve my practical skills
+* Currently focused on becoming a better developer
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+## Projects
+
+### NovaTech Solutions
+
+A company website built as part of my web development learning journey.
+
+### About Me
+
+A personal portfolio project created to practice HTML and CSS.
+
+### JavaScript Projects
+
+Small projects and exercises created while learning JavaScript and programming fundamentals.
+
+## Currently Learning
+
+* Responsive Web Design
+* CSS layouts and animations
+* JavaScript fundamentals
+* Git and GitHub
+* Programming concepts
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanifaalamuna-igtm&show_icons=true&theme=tokyonight&hide_border=true" alt="Hanifa's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanifaalamuna-igtm&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## Contact
 
-**Languages & Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+GitHub: [@Hanifaalamuna-igtm](https://github.com/Hanifaalamuna-igtm)
 
 ---
 
-## 🚀 What I'm Working On
-
-* 🌐 Building responsive websites
-* 💻 Practicing JavaScript
-* 📚 Improving my programming fundamentals
-* 🔧 Building projects with Git and GitHub
-
----
-
-
-## 📊 GitHub Stats
-
-![Hanifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanifaalamuna-igtm\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hanifaalamuna-igtm\&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-💻 GitHub: **Hanifaalamuna-igtm**
-
----
-
-### ✨ Keep learning. Keep building. Keep growing.
-
-
+<p align="center">
+  Thanks for visiting my profile.
+</p>
