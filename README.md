@@ -1,13 +1,19 @@
+<div align="center">
+
 # 👋 Hello, I'm Hanifa!
 
-💻 **Web Development Student | Future Software Engineer**
+###  Web Development Student | Future Software Engineer
+
+</div>
+
 
 I'm currently learning web development and building my skills in **HTML, CSS, and JavaScript**.
 
-🌱 Currently learning and improving my coding skills
-🚀 Building projects and learning through practice
-💡 Interested in software engineering and technology
-📚 Always learning something new
+ 
+Currently learning and improving my coding skills
+Building projects and learning through practice
+Interested in software engineering and technology
+Always learning something new
 
 ---
 
