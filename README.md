@@ -49,12 +49,12 @@ Small projects and exercises created while learning JavaScript and programming f
 * Git and GitHub
 * Programming concepts
 
+
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanifaalamuna-igtm&show_icons=true&theme=tokyonight&hide_border=true" alt="Hanifa's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanifaalamuna-igtm&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
+![Hanifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hanifaalamuna-igtm&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanifaalamuna-igtm&layout=compact&theme=tokyonight)
 
 ---
 
