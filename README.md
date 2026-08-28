@@ -30,15 +30,16 @@ I'm currently learning web development and building projects to strengthen my sk
 ## Projects
 
 ### NovaTech Solutions
-
 A company website built as part of my web development learning journey.
 
-### About Me
+[View Project](https://github.com/Hanifaalamuna-igtm)
 
+### About Me
 A personal portfolio project created to practice HTML and CSS.
 
-### JavaScript Projects
+[View Project](https://github.com/hanifaalamuna-lgtm/about-me)
 
+### JavaScript Projects
 Small projects and exercises created while learning JavaScript and programming fundamentals.
 
 ## Currently Learning
